@@ -87,5 +87,7 @@ int main(void)
 	printf(" % d\t % d\t % d\n", 8, 8 * 8, 8 * 8 * 8);
 	printf(" % d\t % d\t % d\n", 9, 9 * 9, 9 * 9 * 9);
 	printf(" % d\t % d\t % d\n", 10, 10 * 10, 10 * 10 * 10);
+	
 	return 0;
+
 }
