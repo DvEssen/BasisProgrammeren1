@@ -3,7 +3,7 @@
 int main(void)
 {
 	//2.17
-	/*int u;
+	int u;
 	int a;
 	int t;
 	
