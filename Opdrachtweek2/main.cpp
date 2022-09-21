@@ -2,7 +2,7 @@
 
 int main(void)
 {
-//2.19
+//3.19
 	/*
 	float interest;
 	float principal;
@@ -21,7 +21,7 @@ int main(void)
 		printf("%.2f\n", interest);
 	}
 	
-	//2.21
+	//3.21
 	printf("the number is 10");
 	int a = 10;
 	int b = 10;
@@ -34,7 +34,7 @@ int main(void)
 	printf("%d\n", b);
 	printf("%d\n", ++b);
 	printf("%d\n", b);
-	*/
+	 //3.22
 	int number;
 	int i;
 	printf("Enter:");
@@ -50,6 +50,9 @@ int main(void)
 			}
     }  
 
-
+	*/
+	//3.23
+	int test;
+	int 
 	return 0;
 }
